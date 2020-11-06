@@ -1,0 +1,45 @@
+GitHub has removed the open-source YouTube-DL repository as well as several forks. The developer platform took action following a takedown request from the RIAA. The music group argues that the code is primarily used to download copyrighted content and also violates the DMCA's anti-circumvention provisions.
+
+youtube sad errorEvery day, copyright holders send out millions of takedown notices to various services, hoping to protect their works.
+
+Most notices target content that’s clearly copyright-infringing, but others are open to interpretation or debate.
+
+This is also the case with a takedown notice that was sent by the RIAA this week. The music industry’s anti-piracy group asked GitHub to remove the open-source YouTube-DL repository as well as several forks.
+
+Stream-Ripping Piracy
+YouTube-DL is widely used by individuals and some stream-ripper sites to download videos from YouTube.com and other platforms. These can range from public domain videos to copyrighted music tracks.
+
+GitHub responded swiftly to the notice and removed all of the YouTube-DL repositories, which now show a DMCA takedown notification instead.
+
+github dmca
+While these stream-ripping tools can be used to download non-infringing content, as digital rights group EFF highlighted in the past, millions of people use them to download personal copies of music tracks.
+
+In fact, the music industry sees stream-ripping as the single biggest piracy threat. This is also how the group motivates its takedown request to GitHub.
+
+“The clear purpose of this source code is to (i) circumvent the technological protection measures used by authorized streaming services such as YouTube, and (ii) reproduce and distribute music videos and sound recordings owned by our member companies without authorization for such use.”
+
+Anti-Circumvention Violations
+As we have seen in the past, RIAA cites the anti-circumvention provisions of the DMCA, which prohibits the public from bypassing technological protection measures. While it’s YouTube’s protection measures being bypassed in this case, the RIAA member labels are among the ‘victims.’
+
+According to the RIAA, the source code includes several samples that show how people can download tracks from Icona Pop, Justin Timberlake, and Taylor Swift, without permission.
+
+Source Code Mentions Copyrighted Content
+“The source code notes that the Icona Pop work identified above is under the YouTube Standard license, which expressly restricts access to copyrighted works only for streaming on YouTube and prohibits their further reproduction or distribution without consent of the copyright owner,” RIAA writes.
+
+From RIAA’s takedown notice
+
+riaa takedown
+According to the RIAA, YouTube-DL’s code is primarily designed and marketed for circumventing YouTube’s technological measures, which violates 17 USC §§1201(a)(2) and 1201(b)(1) of the DMCA.
+
+While there is little jurisprudence in US Courts about stream-rippers specifically, the music group points to a decision from the Hamburg Regional Court in a similar case, which found that YouTube’s “rolling cipher” is an effective technological protection measure under EU law.
+
+YouTube-DL Remains Online
+TorrentFreak reached out to the YouTube-DL developers to hear their side of the story but they prefer not to comment for now.
+
+However, it appears that they don’t plan to throw in the towel just yet. The yt-dl.org website remains online and it still lists a recently modified version of the code.
+
+In addition, the website was updated to remove links to GitHub pages that were taken down. This includes the about page, which no longer lists the name of the developers.
+
+The YouTube-DL takedown is part of a broader campaign against stream-ripping tools. The RIAA labels are also engaged in a lawsuit against two popular YouTube-ripper sites in the US, and continue to remove these and other services from Google’s search results.
+
+At the same time, YouTube itself is engaged in a proxy war against similar sites.
